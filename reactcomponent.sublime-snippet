@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+const ${1:DetailCard} = (props) => {
+	return (
+	<div className="ui card">
+	
+	</div>
+	);
+};
+
+
+export default ${1:DetailCard};
+
+]]></content>
+	<tabTrigger>import</tabTrigger>
+</snippet>
